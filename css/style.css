@@ -1,0 +1,67 @@
+html {
+  font-family: "Open Sans", sans-serif;
+  font-family: "Taprom", cursive;
+}
+
+.title {
+  text-align: center;
+}
+#jumbotron {
+  background-color: blanchedalmond;
+  text-align: center;
+  padding-bottom: 50px;
+  padding-top: 50px;
+}
+.avatar {
+  border-radius: 100%;
+  width: 200px;
+  height: 200px;
+  margin-right: auto;
+  margin-left: auto;
+  display: block;
+}
+.content-title {
+  text-align: center;
+  font-family: "Coiny", cursive;
+}
+
+.head-title {
+  text-align: center;
+}
+
+#about {
+  margin-top: 40px;
+}
+
+#my-project {
+  background-color: blanchedalmond;
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+.title2 {
+  padding-bottom: 40px;
+}
+h2 {
+  padding-top: 40px;
+  text-align: center;
+}
+.footer {
+  text-align: center;
+}
+
+.gambar-sosmed {
+  margin: 1rem;
+}
+
+.about-body {
+  margin-top: 200px;
+  margin-bottom: 200px;
+}
+
+/* .about-title {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+} */
